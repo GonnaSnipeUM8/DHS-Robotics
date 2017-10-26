@@ -16,6 +16,6 @@ PROs - 2.6.1
 
 <h1 align='center'>Authors</h1>
 
-* Brenden Young - Main work [GonnaSnipeUM8](https://github.com/GonnaSnipeUM8)
+* Brendan Young - Main work [GonnaSnipeUM8](https://github.com/GonnaSnipeUM8)
 * Matthew Byrd - Supplementary Work [ByrdOfAFeather](https://github.com/ByrdOfAFeather)
 
