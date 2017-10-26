@@ -1,6 +1,6 @@
 <h1 align='center'>Team 44576B</h1>
 
-This repository is to serve the purpose of displaying Discovery High School's second robotics team and their code. This repository will also provide a archive of sorts for future teams to learn from. 
+This repository is to serve the purpose of displaying Discovery High School's second robotics team and their code. This repository will also provide an archive of sorts for future teams to learn from. 
 
 <h1 align='center'>Installation</h1>
 
