@@ -16,11 +16,11 @@ void operatorControl() {
 		motorSet(RIGHT_MOTOR, joystickGetAnalog(1, 1));
 			
 		// Before continuing, checks if the deadzones should be on
-		if joystickGetAnalog(1, 3) < deadzone {			
+		if (joystickGetAnalog(1, 3) < deadzone) {			
 			motorSet(LEFT_MOTOR, 0);
 		}
 
-		if joystickGetAnalog(1, 1) < deadzone {			
+		if (joystickGetAnalog(1, 1) < deadzone) {			
 			motorSet(RIGHT_MOTOR, 0);
 		}
 
